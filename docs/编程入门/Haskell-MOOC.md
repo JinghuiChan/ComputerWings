@@ -35,4 +35,4 @@
 
 ## 资源汇总
 
-@showtheunli 在学习这门课中用到的所有资源和作业实现都汇总在 [showthesunli/haskell-mooc - GitHub](https://github.com/showthesunli/haskell-mooc) 中。(非常不建议在作业时，参考别人的实现)
+在学习这门课中用到的所有资源和作业实现都汇总在 [showthesunli/haskell-mooc - GitHub](https://github.com/showthesunli/haskell-mooc) 中。(非常不建议在作业时，参考别人的实现)

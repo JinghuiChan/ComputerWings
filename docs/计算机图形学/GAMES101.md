@@ -30,4 +30,4 @@ GAMES101 是国内相当有名的图形学公开课。和大家印象中满是�
 
 ## 资源汇总
 
-@ysj1173886760 在学习这门课中用到的所有资源和作业实现都汇总在[ysj1173886760/Learning: graphics/GAMES101 - GitHub](https://github.com/ysj1173886760/Learning/tree/master/graphics/GAMES101) 中。
+在学习这门课中用到的所有资源和作业实现都汇总在[ysj1173886760/Learning: graphics/GAMES101 - GitHub](https://github.com/ysj1173886760/Learning/tree/master/graphics/GAMES101) 中。

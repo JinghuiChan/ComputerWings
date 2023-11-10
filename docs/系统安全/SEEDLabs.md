@@ -21,5 +21,5 @@
 
 ## 资源汇总
 
-@LaPhilosophie 在学习这门课中用到的所有资源和作业实现都汇总在  [LaPhilosophie/seedlab - GitHub](https://github.com/LaPhilosophie/seedlab) 中。
+在学习这门课中用到的所有资源和作业实现都汇总在  [LaPhilosophie/seedlab - GitHub](https://github.com/LaPhilosophie/seedlab) 中。
 

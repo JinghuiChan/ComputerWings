@@ -21,4 +21,4 @@ CS50的番外篇，依旧由 David J. Malan 授课。在该课程中你将学会
 
 ## 资源汇总
 
-@mancuoj 在学习这门课中用到的所有资源和作业实现都汇总在 [mancuoj/CS50P - GitHub](https://github.com/mancuoj/CS50P) 中。
+在学习这门课中用到的所有资源和作业实现都汇总在 [mancuoj/CS50P - GitHub](https://github.com/mancuoj/CS50P) 中。

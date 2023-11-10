@@ -26,4 +26,4 @@
 
 ## 资源汇总
 
-@NaChen95 在学习这门课中的八个实验作业的原理分析和实现都汇总在 [NaChen95 / Linux0.11](https://github.com/NaChen95/Linux0.11) 中。
+在学习这门课中的八个实验作业的原理分析和实现都汇总在 [NaChen95 / Linux0.11](https://github.com/NaChen95/Linux0.11) 中。

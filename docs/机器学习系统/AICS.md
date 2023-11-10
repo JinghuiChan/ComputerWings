@@ -31,4 +31,4 @@
 
 ## 资源汇总
 
-@ysj1173886760 在学习这门课中用到的所有资源和作业实现都汇总在 [ysj1173886760/Learning: ai-system - GitHub](https://github.com/ysj1173886760/Learning/tree/master/ai-system) 中。
+在学习这门课中用到的所有资源和作业实现都汇总在 [ysj1173886760/Learning: ai-system - GitHub](https://github.com/ysj1173886760/Learning/tree/master/ai-system) 中。
