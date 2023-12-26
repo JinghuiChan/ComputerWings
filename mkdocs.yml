@@ -46,6 +46,10 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/JinghuiChan/ComputerWings
 
+icon:
+  admonition:
+    <type>: <icon>
+
 nav:
   - 前言: "index.md"
   - 必学工具:
