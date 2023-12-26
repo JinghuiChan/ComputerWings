@@ -7,7 +7,7 @@
 <br>
 <br>
 <hr>
-!!! Name
+!!! note "Name"
 
     Jinghui Chan.
 <hr>
