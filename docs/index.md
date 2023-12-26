@@ -7,7 +7,7 @@
 <br>
 <br>
 <hr>
-!!! tip
-    &nbsp;&nbsp; # Jinghui Chan
+!!! Name
 
+    Jinghui Chan.
 <hr>
