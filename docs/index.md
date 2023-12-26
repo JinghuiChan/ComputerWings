@@ -7,7 +7,10 @@
 <br>
 <br>
 <hr>
-!!! note "Name"
+
+!!! note "Contact"
 
     Jinghui Chan.
+
+
 <hr>
