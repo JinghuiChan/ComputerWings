@@ -60,7 +60,6 @@
 - [菜鸟教程](https://www.runoob.com/): 计算机相关知识的简要的教程。
 - [FreeBSD 从入门到跑路](https://book.bsdcn.org/): 一本 FreeBSD 的中文教程。
 - [MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Learn): MDN 网络开发入门手册。
-- [Hello 算法](https://www.hello-algo.com/): 动画图解、能运行、可提问的数据结构与算法快速入门教程。
 
 ## 百科网站/词典性质的网站
 - [os-wiki](https://wiki.osdev.org/Main_Page): 操作系统技术资源百科全书。
