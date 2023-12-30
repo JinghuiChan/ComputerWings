@@ -2,10 +2,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <hr>
 
 !!! note "Contact"
